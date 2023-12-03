@@ -17,4 +17,4 @@ Gawron52
 - 3D printed parts and carbon fiber rods
 - Jumper cables
   
-![Linefollower robot](docs/photos/LF.jpg)
+![Linefollower robot](docs/LF.jpg)
