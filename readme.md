@@ -3,7 +3,7 @@ Linefollower robot built in 3 days for a student's hackathon at BSR in our (teac
 <br/>
 ### Authors:  
 rureq  
-Gawron52  
+@Gawron52  
 <br/>
 ### Hardware:  
 - Two custom made (CNC milled) PCBs featuring:
